@@ -19,7 +19,8 @@
     },
     "require": {
         "php": ">=5.3",
-        "ext-gd": "*"
+        "ext-gd": "*",
+        "composer/installers": "^1.2"
     },
     "suggest": {
         "ext-exif": "*",
